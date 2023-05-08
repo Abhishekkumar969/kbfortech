@@ -143,6 +143,11 @@
         padding: 25px;
         padding-left: 25px;
         left: 0;
+        height: 16rem;
+    }
+    .caption h2 {
+        font-size: 41px !important;
+        line-height: 38px !important;
     }
     .service_wrapper {
         padding: 28px 0 40px 61px !important;
