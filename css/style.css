@@ -285,7 +285,7 @@ figure.effect-oscar:hover img {
 body {
     background: #fff;
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: normal;
     color: #888888;
     margin: 0;
@@ -296,7 +296,7 @@ h2 {
     color: #222222;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
-    margin: 39px 0 25px 0;
+    margin: 0 25px 0;
     text-align: center;
     text-transform: uppercase;
 }

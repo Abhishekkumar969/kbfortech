@@ -11,7 +11,7 @@
     }
 }
 
-@media (min-width: 285px) and (max-width: 340px) {
+@media (min-width: 285px) and (max-width: 300px) {
     figure.effect-oscar figcaption {
         width: 21rem !important;
     }
@@ -135,7 +135,7 @@
     }
 }
 
-@media (min-width: 340px) and (max-width: 430px) {
+@media (min-width: 300px) and (max-width: 430px) {
     .caption {
         position: absolute;
         top: 0% !important;
@@ -178,8 +178,8 @@
         margin: -3px;
     }
     figure.effect-oscar h2 {
-        font-size: 40px;
-        margin: -22px;
+        font-size: 32px;
+        margin: 18px;
     }
     .grid figure h2 strong {
         font-weight: 800 !important;
